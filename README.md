@@ -1,6 +1,6 @@
 # Hello, World! 👋
 
-I'm @goblinmine, a trainee app developer with a passion for crafting digital experiences, Network technology and exploring the realms of code. Welcome to my GitHub space, where I share my coding adventures, projects, and insights.
+I'm jonas, also known as @Goblinmine, a trainee app developer with a passion for crafting digital experiences, Network technology and exploring the realms of code. Welcome to my GitHub space, where I share my coding adventures, projects, and insights.
 
 ## About Me
 
