@@ -10,7 +10,6 @@ With over 3 years of experience in C#, I'm on a continuous journey of refining t
 - 💼 Over 3 years of experience mastering the art of C# sorcery.
 - 🌐 Network technology enthusiast – let's talk networks!
 - 💬 I'm always open to discussions about apps, the intricacies of coding, networking mysteries, or any topic you'd like to explore.
-- 📫 Reach me through [Email](mailto:jonas.millonig@lisa-software.eu)
 
 ## Projects
 ### Class Exercise Repository - INT-UEBUNGEN
@@ -18,15 +17,6 @@ With over 3 years of experience in C#, I'm on a continuous journey of refining t
 
 - 🛠️ Tech Stack: Python
 - 📎 [Repository Link](https://github.com/Goblinmine/INT-UEBUNGEN)
-
-
-## Connect with Me
-
-Let's forge connections and craft innovation together:
-
-- Email: [jonas.millonig@lisa-software.eu](mailto:jonas.millonig@lisa-software.eu)
-
-Feel free to reach out for collaboration, discussions about apps, networking tech, or just a friendly chat.
 
 ## Support and Engagement
 
